@@ -95,11 +95,11 @@ Apart from that, I’ve tried to **preserve the original structure** and artisti
 
 ## Cover artwork
 
-<img src="./img/artwork/HobbitMiniseries_Cover.jpg" />
-
 <img align="left" width="45%" src="./img/artwork/HobbitMiniseries_Disk1.png" />
 
 <img align="right" width="45%" src="./img/artwork/HobbitMiniseries_Disk2.png" />
+
+<img src="./img/artwork/HobbitMiniseries_Cover.jpg" />
 
 ## Links
 
