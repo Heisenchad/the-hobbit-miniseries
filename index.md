@@ -90,8 +90,8 @@ Other relevant notes from this edit:
 
 <img src="./img/artwork/HobbitMiniseries_Cover.jpg" />
 
-<img align="left" width="45%" src="./img/artwork/HobbitMiniseries_Disk1.jpg" />
+<img align="left" width="45%" src="./img/artwork/HobbitMiniseries_Disk1.png" />
 
-<img align="right" width="45%" src="./img/artwork/HobbitMiniseries_Disk2.jpg" />
+<img align="right" width="45%" src="./img/artwork/HobbitMiniseries_Disk2.png" />
 
 
