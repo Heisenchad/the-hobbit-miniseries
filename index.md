@@ -1,11 +1,11 @@
 
 <img align="right" width="50%" src="./img/artwork/HobbitMiniseries_Poster.jpg" />
 
-If you loved the wonder and grandeur of An Unexpected Journey, but couldn't stand the Fíli-Tauriel romance or some of Alfrid’s antics later in the series, this fanedit miniseries is your perfect escape.
+If you loved the wonder and **grandeur of An Unexpected Journey**, but **couldn't stand the Fíli-Tauriel romance** or some of **Alfrid’s antics** later in the series, **this fanedit miniseries is your perfect escape.**
 
-The Hobbit (Miniseries) splits PJ’s trilogy into 11 episodes, each running ∼45 minutes and named after the book chapters. This edit preserves the original structure of the films, carefully trimming away the Fíli-Tauriel romance and Alfrid's antics to maintain a more focused narrative. Plot-wise, the one key alteration involves the death of Kíli, which now occurs simultaneously with Fíli's, witnessed by Thorin and Bilbo. With these changes, this miniseries is ideal for fans who want to immerse themselves as much as possible in the world of Middle-Earth without minor distractions.
+The Hobbit (Miniseries) splits PJ’s trilogy into **11 episodes**, each running **∼45 minutes** and named after the **book chapters**. This edit **preserves the original structure** of the films, carefully trimming away the Fíli-Tauriel romance and Alfrid's antics to maintain a more focused narrative. Plot-wise, the one key alteration involves the death of Kíli, which now occurs simultaneously with Fíli's, witnessed by Thorin and Bilbo. With these changes, this miniseries is ideal for **fans who want to immerse themselves as much as possible in the world of Middle-Earth** without minor distractions.
 
-Crafted from the original Blu-ray Extended Editions, this fanedit ensures the highest possible quality in both video and audio, and is available both in English and Spanish.
+Crafted from the **original Blu-ray Extended Editions**, this fanedit ensures the **highest possible quality** in both **video** and **audio**, and is available both in **English** and **Spanish**.
 
 ## Trailer
 
@@ -75,16 +75,16 @@ The strategy behind this edit followed three main guidelines:
 2. **Trimming Alfrid:** While Alfrid still moves the plot forward, most of his scenes have been cut, including his entire arc. The last we see of him is hiding during the battle, and I removed any further comedic moments (such as the lady-dressing scenes) to keep the focus on the main story.
 3. **Ensure highest quality, aiming for 45-minute episodes cut at cliffhanger moments:** After ripping original Blu-rays to keep highest quality in both video (1080p resolution and 20+ Mb/s bitrate) and audio (7.1/5.1 Surround), I restructured the edit to fit 45-minute episodes, naming them after the chapters from the book that best align with the events. Additionally, I added short credits at the end of each episode, accompanied by the Misty Mountains theme, to maintain the atmosphere.
 
-Plot-wise, the one key alteration involves the death of Kíli, which now occurs simultaneously with Fíli's, witnessed by Thorin and Bilbo, as you can see in this clip:
+Plot-wise, the one **key alteration** involves the death of Kíli, which now occurs simultaneously with Fíli's, witnessed by Thorin and Bilbo, as you can **see in this clip**:
 
 {% include youtube.html id="U4WTe9a6nd0" %}
 
 Apart from that, I’ve tried to preserve the original structure and artistic decisions.
 
 Other relevant notes from this edit:
-* Merged the end of DoS and the beginning of BoFA into the same episode.
-* Trimmed some Extended Edition battle scenes from BoFA that lacked a soundtrack and didn’t add to the story.
-* The Dol Guldur plot remains untouched, although trimmed some of Radagast’s antics.
+* **Merged the end of DoS and the beginning of BoFA** into the same episode.
+* **Trimmed some Extended Edition battle scenes** from BoFA that **lacked a soundtrack** and didn’t add to the story.
+* **The Dol Guldur plot remains untouched**, although trimmed some of **Radagast’s antics**.
 
 ## Cover artwork
 
