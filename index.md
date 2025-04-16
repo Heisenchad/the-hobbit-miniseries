@@ -67,3 +67,18 @@ The Battle of the Five Armies begins, first between dwarves, elves, and men. As 
 
 ### 11. THE LAST STAGE (43:07)
 After Thorin arrives at Ravenhill, he battles Azog the Defiler in a final, tragic confrontation, where he is mortally wounded. As Thorin dies, Bilbo is able to say goodbye, and the battle ends with the defeat of the orc army. The dwarves, elves, and men agree to a fragile peace.
+
+## Main edits
+
+The strategy behind this edit followed three main guidelines:
+1. **Removing the Kíli-Tauriel romance:** I trimmed their scenes to change the nature of their relationship. Instead of a mutual romance, Kíli’s feelings for Tauriel are now portrayed as one-sided. Tauriel is shown as someone who cares deeply for all living beings, with Kíli being just another one of them. The dynamic I aimed for is somewhat akin to the relationship between Gimli and Galadriel in The Lord of the Rings.
+2. **Trimming Alfrid:** While Alfrid still moves the plot forward, most of his scenes have been cut, including his entire arc. The last we see of him is hiding during the battle, and I removed any further comedic moments (such as the lady-dressing scenes) to keep the focus on the main story.
+3. **Ensure highest quality, aiming for 45-minute episodes cut at cliffhanger moments:** After ripping original Blu-rays to keep highest quality in both video (1080p resolution and 20+ Mb/s bitrate) and audio (7.1/5.1 Surround), I restructured the edit to fit 45-minute episodes, naming them after the chapters from the book that best align with the events. Additionally, I added short credits at the end of each episode, accompanied by the Misty Mountains theme, to maintain the atmosphere.
+
+Plot-wise, the one key alteration involves the death of Kíli, which now occurs simultaneously with Fíli's, witnessed by Thorin and Bilbo. Apart from that, I’ve tried to preserve the original structure and artistic decisions.
+
+Other relevant notes from this edit:
+* Merged the end of DoS and the beginning of BoFA into the same episode.
+* Trimmed some Extended Edition battle scenes from BoFA that lacked a soundtrack and didn’t add to the story.
+* The Dol Guldur plot remains untouched, although trimmed some of Radagast’s antics.
+
