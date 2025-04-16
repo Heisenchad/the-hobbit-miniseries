@@ -1,3 +1,4 @@
+# The Hobbit (Miniseries)
 ### 1080p Full HD | 7.1 Surround English | 5.1 Surround Spanish
 
 <img align="right" width="400" src="./img/artwork/HobbitMiniseries_Poster.jpg" />
