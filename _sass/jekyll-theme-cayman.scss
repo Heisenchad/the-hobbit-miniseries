@@ -111,6 +111,8 @@ a {
   background-color: $header-bg-color;
   background-image: url("https://i.imgur.com/xP6QxkD.jpeg");
   background-size: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
 
   @include large {
     padding: 5rem 6rem;
