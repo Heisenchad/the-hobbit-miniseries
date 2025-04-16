@@ -108,8 +108,7 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: url("./../Images/Header/HobbitMiniseries_Header.jpeg");
+  background-image: url("./Images/Header/HobbitMiniseries_Header.jpeg");
 
   @include large {
     padding: 5rem 6rem;
