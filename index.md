@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="icon.png">
+
 <img align="right" width="400" src="./img/artwork/HobbitMiniseries_Poster.jpg" />
 
 If you loved the wonder and grandeur of An Unexpected Journey, but couldn't stand the Fíli-Tauriel romance or some of Alfrid’s antics later in the series, this fanedit miniseries is your perfect escape.
