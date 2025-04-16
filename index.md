@@ -75,10 +75,23 @@ The strategy behind this edit followed three main guidelines:
 2. **Trimming Alfrid:** While Alfrid still moves the plot forward, most of his scenes have been cut, including his entire arc. The last we see of him is hiding during the battle, and I removed any further comedic moments (such as the lady-dressing scenes) to keep the focus on the main story.
 3. **Ensure highest quality, aiming for 45-minute episodes cut at cliffhanger moments:** After ripping original Blu-rays to keep highest quality in both video (1080p resolution and 20+ Mb/s bitrate) and audio (7.1/5.1 Surround), I restructured the edit to fit 45-minute episodes, naming them after the chapters from the book that best align with the events. Additionally, I added short credits at the end of each episode, accompanied by the Misty Mountains theme, to maintain the atmosphere.
 
-Plot-wise, the one key alteration involves the death of Kíli, which now occurs simultaneously with Fíli's, witnessed by Thorin and Bilbo. Apart from that, I’ve tried to preserve the original structure and artistic decisions.
+Plot-wise, the one key alteration involves the death of Kíli, which now occurs simultaneously with Fíli's, witnessed by Thorin and Bilbo, as you can see in this clip:
+
+{% include youtube.html id="U4WTe9a6nd0" %}
+
+Apart from that, I’ve tried to preserve the original structure and artistic decisions.
 
 Other relevant notes from this edit:
 * Merged the end of DoS and the beginning of BoFA into the same episode.
 * Trimmed some Extended Edition battle scenes from BoFA that lacked a soundtrack and didn’t add to the story.
 * The Dol Guldur plot remains untouched, although trimmed some of Radagast’s antics.
+
+## Cover artwork
+
+<img src="./img/artwork/HobbitMiniseries_Cover.jpg" />
+
+<img align="left" width="45%" src="./img/artwork/HobbitMiniseries_Disk1.jpg" />
+
+<img align="right" width="45%" src="./img/artwork/HobbitMiniseries_Disk2.jpg" />
+
 
