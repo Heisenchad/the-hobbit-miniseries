@@ -103,4 +103,4 @@ Apart from that, I’ve tried to **preserve the original structure** and artisti
 
 ## Links
 
-* [Fanedit.org thread](https://fanedit.org/forums/threads/the-hobbit-miniseries.34127)
+* [Fanedit.org thread](https://fanedit.org/forums/threads/the-hobbit-miniseries.34127){:target="_blank"}
