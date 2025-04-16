@@ -11,3 +11,14 @@ Crafted from the original Blu-ray Extended Editions, this fanedit ensures the hi
 ## Trailer
 
 {% include youtube.html id="7af4lCwwQxg" %}
+
+## Episodes
+
+<img align="right" width="400" src="./img/thumbnails/t01.jpeg" />
+### 1. AN UNEXPECTED PARTY (43:14)
+Bilbo Baggins, a reluctant hobbit, is unexpectedly swept into an adventure with Gandalf and a group of dwarves to reclaim the Lonely Mountain from the dragon Smaug, leaving his peaceful life in the Shire behind.
+
+<img align="left" width="400" src="./img/thumbnails/t02.jpeg" />
+## 2. ROAST MUTTON (42:02)
+After leaving the Shire, Bilbo and the dwarves face numerous dangers, including trolls, goblins, and Wargs, before finding refuge in Rivendell. Meanwhile, the White Council convenes in Rivendell.
+
