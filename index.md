@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="icon.png">
 
 <img align="right" width="400" src="./img/artwork/HobbitMiniseries_Poster.jpg" />
 
