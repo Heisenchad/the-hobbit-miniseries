@@ -7,5 +7,3 @@ The Hobbit (Miniseries) splits PJ’s trilogy into 11 episodes, each running ∼
 Crafted from the original Blu-ray Extended Editions, this fanedit ensures the highest possible quality in both video and audio, and is available both in English and Spanish.
 
 ## Trailer
-
-[![Trailer](https://img.youtube.com/vi/7af4lCwwQxg/0.jpg)]([https://www.youtube.com/watch?v=7af4lCwwQxg](https://www.youtube.com/watch?v=7af4lCwwQxg&list=PL_uFSFPXq6IdSnuWKgzWr3ZCDr7u2rAYg&index=1))
