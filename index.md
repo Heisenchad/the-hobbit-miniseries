@@ -68,7 +68,7 @@ Crafted from the **original Blu-ray Extended Editions**, this fanedit ensures th
 <img style="margin-right: 1.5rem" align="left" width="35%" src="./img/thumbnails/t10.jpeg" />
 
 ### 10. THE CLOUDS BURST
-*43:56* · The Battle of the Five Armies begins, first between dwarves, elves, and men. As the battle continues, they must unite against the orc and goblin forces. During the chaos, Thorin and his best warriors fight valiantly at Ravenhill.
+*43:49* · The Battle of the Five Armies begins, first between dwarves, elves, and men. As the battle continues, they must unite against the orc and goblin forces. During the chaos, Thorin and his best warriors fight valiantly at Ravenhill.
 
 <img style="margin-left: 1.5rem" align="right" width="35%" src="./img/thumbnails/t11.jpeg" />
 
