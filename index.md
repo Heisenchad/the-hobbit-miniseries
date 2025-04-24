@@ -23,7 +23,7 @@ Crafted from the **original Blu-ray Extended Editions**, this fanedit ensures th
 <img style="margin-left: 1.5rem" align="right" width="35%" src="./img/thumbnails/t01.jpeg" />
 
 ### 1. AN UNEXPECTED PARTY
-*43:14* · Bilbo Baggins, a reluctant hobbit, is unexpectedly swept into an adventure with Gandalf and a group of dwarves to reclaim the Lonely Mountain from the dragon Smaug, leaving his peaceful life in the Shire behind.
+*43:12* · Bilbo Baggins, a reluctant hobbit, is unexpectedly swept into an adventure with Gandalf and a group of dwarves to reclaim the Lonely Mountain from the dragon Smaug, leaving his peaceful life in the Shire behind.
 
 <img style="margin-right: 1.5rem" align="left" width="35%" src="./img/thumbnails/t02.jpeg" />
 
