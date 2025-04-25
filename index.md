@@ -43,7 +43,7 @@ Crafted from the **original Blu-ray Extended Editions**, this fanedit ensures th
 <img style="margin-left: 1.5rem" align="right" width="35%" src="./img/thumbnails/t05.jpeg" />
 
 ### 5. FLIES AND SPIDERS
-*47:28* · The company rests at Beorn’s house and continues their journey through Mirkwood, where they are attacked by giant spiders and eventually captured by the Wood Elves. Meanwhile, Gandalf leaves the company to make some investigations.
+*47:29* · The company rests at Beorn’s house and continues their journey through Mirkwood, where they are attacked by giant spiders and eventually captured by the Wood Elves. Meanwhile, Gandalf leaves the company to make some investigations.
 
 <img style="margin-right: 1.5rem" align="left" width="35%" src="./img/thumbnails/t06.jpeg" />
 
