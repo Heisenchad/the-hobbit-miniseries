@@ -48,7 +48,7 @@ Crafted from the **original Blu-ray Extended Editions**, this fanedit ensures th
 <img style="margin-right: 1.5rem" align="left" width="35%" src="./img/thumbnails/t06.jpeg" />
 
 ### 6. BARRELS OUT OF BOND
-*46:56* · After being imprisoned by the Elves, Bilbo and the dwarves escape in barrels, floating down the river to Lake-town, where they are welcomed by the people and eventually make their way to Bard's house. Meanwhile, Gandalf investigates the Nine Kings of Men tombs.
+*46:58* · After being imprisoned by the Elves, Bilbo and the dwarves escape in barrels, floating down the river to Lake-town, where they are welcomed by the people and eventually make their way to Bard's house. Meanwhile, Gandalf investigates the Nine Kings of Men tombs.
 
 <img style="margin-left: 1.5rem" align="right" width="35%" src="./img/thumbnails/t07.jpeg" />
 
