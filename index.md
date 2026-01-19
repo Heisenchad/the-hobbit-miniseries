@@ -101,7 +101,15 @@ Apart from that, I’ve tried to **preserve the original structure** and artisti
 
 <img src="./img/artwork/HobbitMiniseries_Cover.jpg" />
 
+#### Menu demo disk 1
+
+{% include youtube.html id="2YkH3dIAx4Y" %}
+
+#### Menu demo disk 2
+
+{% include youtube.html id="6sGdwUPdCTg" %}
+
 ## Links
 
-* [Fanedit.org listing](https://fanedit.org/hobbit-miniseries-the/){:target="_blank"}
-* Reddit posts: [Post 1](https://www.reddit.com/r/fanedits/comments/1jz065j/the_hobbit_miniseries_fanedit/){:target="_blank"}, [Post 2]([https://www.reddit.com/r/fanedits/comments/1jz065j/the_hobbit_miniseries_fanedit/](https://www.reddit.com/r/fanedits/comments/1qgkrv9/the_hobbit_miniseries_fanedit_update/)){:target="_blank"}, 
+* [Fanedit.org listing](https://fanedit.org/hobbit-miniseries-the/)
+* Reddit posts: [Post 1](https://www.reddit.com/r/fanedits/comments/1jz065j/the_hobbit_miniseries_fanedit/), [Post 2](https://www.reddit.com/r/fanedits/comments/1qgkrv9/the_hobbit_miniseries_fanedit_update/)
