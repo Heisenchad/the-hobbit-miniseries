@@ -28,7 +28,7 @@ Crafted from the **original Blu-ray Extended Editions**, this fanedit ensures th
 <img style="margin-right: 1.5rem" align="left" width="35%" src="./img/thumbnails/t02.jpeg" />
 
 ### 2. ROAST MUTTON
-*42:02* · After leaving the Shire, Bilbo and the dwarves face numerous dangers, including trolls, goblins, and Wargs, before finding refuge in Rivendell. Meanwhile, the White Council convenes in Rivendell.
+*42:02* · After leaving the Shire, Bilbo and the dwarves face numerous dangers, including trolls, goblins, and wargs, before finding refuge in Rivendell. Meanwhile, the White Council convenes in Rivendell.
 
 <img style="margin-left: 1.5rem" align="right" width="35%" src="./img/thumbnails/t03.jpeg" />
 
@@ -38,7 +38,7 @@ Crafted from the **original Blu-ray Extended Editions**, this fanedit ensures th
 <img style="margin-right: 1.5rem" align="left" width="35%" src="./img/thumbnails/t04.jpeg" />
 
 ### 4. RIDDLES IN THE DARK
-*42:48* · After falling into the mountain caves, Bilbo encounters Gollum, finds the One Ring, and then reunites with the dwarves. Together, they face a dangerous escape from goblins and Wargs, culminating in their rescue by the eagles.
+*42:48* · After falling into the mountain caves, Bilbo encounters Gollum, finds the One Ring, and then reunites with the dwarves. Together, they face a dangerous escape from goblins and wargs, culminating in their rescue by the eagles.
 
 <img style="margin-left: 1.5rem" align="right" width="35%" src="./img/thumbnails/t05.jpeg" />
 
